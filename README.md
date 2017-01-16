@@ -155,7 +155,7 @@ proc-or-func:
    procedure  identifier parametersopt ;  block-or-forward 
    function  identifier parametersopt : typeid ; block-or-forward 
 
-
+ 
 block-or-forward:  
    block  
    forward  
